@@ -1,9 +1,9 @@
-2DExampleProject/[Ll]ibrary/
-2DExampleProject/[Tt]emp/
-2DExampleProject/[Oo]bj/
-2DExampleProject/[Bb]uild/
-2DExampleProject/[Bb]uilds/
-2DExampleProject/Assets/AssetStoreTools*
+ExampleProject/[Ll]ibrary/
+ExampleProject/[Tt]emp/
+ExampleProject/[Oo]bj/
+ExampleProject/[Bb]uild/
+ExampleProject/[Bb]uilds/
+ExampleProject/Assets/AssetStoreTools*
 
 # Visual Studio cache directory
 .vs/
